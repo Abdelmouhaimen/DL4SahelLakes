@@ -1,5 +1,10 @@
 # Adaptation of a CNN U-Net Algorithm for Lake Recognition in Landsat Images
 
+## Project Overview
+This project aims to develop a **deep learning pipeline** for **detecting lakes in Landsat satellite images** using a **CNN U-Net architecture**. The work was carried out during a **research internship at GET-OMP (CNRS)**, with a focus on geospatial analysis and image segmentation.
+
+The project leverages **QGIS** for visualization and annotation, along with **TensorFlow** for model training and prediction. The results contribute to **environmental monitoring and water resource management** by identifying water bodies across different regions and time periods.
+
 ## 1. Downloading and Preprocessing Images
 
 ### 1.1 Preprocessed Images
