@@ -157,13 +157,4 @@ Key steps:
   - **Patch-based segmentation** for processing large satellite images.
   - **Automated dataset retrieval** from **Earth Explorer**.
 
----
-
-## 📢 **Contact & Contribution**
-For any inquiries or collaboration opportunities, feel free to reach out!
-
-📌 **Author:** Abdelmouhaimen Sarhane  
-🔗 **LinkedIn:** [linkedin.com/in/Abdelmouhaimen](https://linkedin.com/in/Abdelmouhaimen)  
-🔗 **GitHub:** [github.com/Abdelmouhaimen](https://github.com/Abdelmouhaimen)
-
 
